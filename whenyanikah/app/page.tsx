@@ -75,7 +75,7 @@ export default function OurTeam() {
                     {member.name}
                   </h3>
                   <div className="flex flex-col items-center space-y-3 mb-4">
-                    <span className="bg-fern-green-100 text-fern-green-800 text-sm font-medium px-4 py-1 rounded-full">
+                    <span className="bg-fern-green-100 text-black text-sm font-medium px-4 py-1 rounded-full">
                       NIM: {member.nim}
                     </span>
                     <p className="text-gray-600">{member.description}</p>
