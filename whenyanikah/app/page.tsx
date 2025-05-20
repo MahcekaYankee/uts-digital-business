@@ -18,7 +18,7 @@ const teamMembers: TeamMember[] = [
   },
   {
     name: 'Zaidan Rifky P. P.',
-    nim: '22.11.4912.02',
+    nim: '22.11.4902',
     description: 'Informatika Amikom Yogyakarta',
     image: '/zaidan.jpg',
   },
